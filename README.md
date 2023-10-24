@@ -21,5 +21,3 @@ I love learn new thing in programming such as Javascript, Swift, Python.
     <img src="https://github-readme-stats.vercel.app/api?username=R-Fox778&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-Fox778&layout=compact" height=180 />
 </p>
-
-### Let's connect!
